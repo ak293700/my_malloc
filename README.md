@@ -1,4 +1,6 @@
 # my_malloc
+[SchoolProject]
+
 Create a memory allocation tools, that can allocate, free and reallocate memory. The equivalent of malloc, free and realloc in C stdlib.
 
 How to use it:
